@@ -43,5 +43,5 @@ I found most of them on [wallhaven](https://wallhaven.cc/).
 
 ### Original themes / colorschemes credits
 
-Iceberg: [iceberg.vim](https://github.com/cocopon/iceberg.vim) by 'cocopon'  
+Iceberg Dark: [iceberg.vim](https://github.com/cocopon/iceberg.vim) by 'cocopon'  
 Kanagawa: [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) by 'rebelot'
