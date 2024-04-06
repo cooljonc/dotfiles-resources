@@ -29,10 +29,6 @@ Uses regular papirus themes as fallback so make sure you have those installed as
 
 All kvantum themes are [materia-kde](https://github.com/PapirusDevelopmentTeam/materia-kde)'s kvantum theme with custom colors.
 
-### Wallpapers
-
-Wallpapers...
-
 ## Other resources
 
 ### Firefox themes
