@@ -1,6 +1,6 @@
 #!/bin/sh
 if [ "$(id -u)" != '0' ]; then
-    echo "$0: must be run as root" 1>&2
+    echo "$0: Must be run as root." 1>&2
     exit 1
 fi
 
